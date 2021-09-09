@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013778676114",
+    "project_id": "razorpay-ea8fe",
+    "storage_bucket": "razorpay-ea8fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013778676114:android:115ef437a460bcb131e94b",
+        "android_client_info": {
+          "package_name": "com.karoninfotech.payment_gateway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013778676114-dn7gdt5k6e3agm4i2fmhom1qhvt5m26k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPaZjUBaYSPbXX_qqLKndnTvdL_c_6nhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013778676114-dn7gdt5k6e3agm4i2fmhom1qhvt5m26k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
